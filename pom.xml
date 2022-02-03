@@ -136,6 +136,10 @@
         <pmd.version>3.15.0</pmd.version>
         <checkstyle.version>3.1.2</checkstyle.version>
     </properties>
+    <properties>
+        <sonar.organization>dmacc9223</sonar.organization>
+        <sonar.host.url>https://sonarcloud.io</sonar.host.url>
+    </properties>
 
     <modules>
         <module>webgoat-container</module>
